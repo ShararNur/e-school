@@ -1,0 +1,42 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  background-color: #f0fff0;
+}
+
+.showcase {
+  background-color: #f0fff0;
+}
+
+.color {
+  background-color: 21b573;
+}
+
+.orange {
+  color: #fd511a;
+}
+
+.green {
+  color: #21b573;
+}
+
+.gray {
+  color: #6c6b6b;
+}
+
+.small {
+  background-color: #f8fffb;
+  height: 240px;
+  width: 250px;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
+
+.font-small {
+  font-weight: 300;
+}
